@@ -21,12 +21,12 @@ usingand also with JPA/Hibernate, plus how to control global exceptions.
 <img width="1456" height="1818" alt="Task_Manager  UserInterface" src="https://github.com/user-attachments/assets/a699e08a-b8a8-48ee-83e6-b210a611d6cb" />
 
 
-# 🧾 System Architecture
+# 📜 System Architecture
 
 <img width="1733" height="395" alt="System Architecture" src="https://github.com/user-attachments/assets/8eccc0a6-3352-4fac-b610-0b440da2484b" />
 
 
-# 🧾 API Design
+# 📗 API Design
 
 <img width="1305" height="334" alt="API_Design" src="https://github.com/user-attachments/assets/d9ce025f-a0d0-47c8-a2c8-db06ecd19638" />
 
@@ -55,33 +55,10 @@ task-manager-java/
 <div />
 
 # 📌 **Features**
-<br />✅ Primary and foreign key constraints
-<br />✅ CRUD operations (Create, Read, Update, Delete)
-<br />✅Database Creation 
-<br />✅Tables 
-<br />✅Primary Keys 
-<br />✅Foreign Keys 
-<br />✅Constraints 
-<br />✅Sample Data 
-<br />✅Basic Queries 
-<br />✅Inner, Left & Right Joins 
-<br />✅Aggregation 
-<br />✅Subqueries 
-<br />✅Stored Procedures 
-<br />✅Stored Functions 
-<br />✅Triggers 
-<br />✅Transactions 
-<br />✅Indexes 
-<br />✅Views 
-<br />✅Management Reports 
-<br />✅Inventory Management 
-<br />✅Reservations 
-<br />✅Fines & Payments 
-<br />✅Reviews 
-<br />✅Library Events 
-<br />✅Suppliers & Acquisitions 
-<br />✅Audit Logging
-
+<br />✅ Backend Development
+<br />✅ Data Interaction
+<br />✅ API Development 
+<br />✅ Error Handling
 
 # ✨ **Objectives**
     🚀Create a Java backend using Spring Boot.
@@ -106,33 +83,19 @@ task-manager-java/
 ---
 
 # 🚀 How to Run
-    Clone this repository.
-
-    Open SQL Server Management Studio (SSMS).
-
-    Execute the SQL scripts in the following order:
-        01_Create_Database.sql
-        02_Create_Tables.sql
-        03_Insert_Data.sql
-        04_Basic_SELECT.sql
-        05_JOINS.sql
-        06_SET_OPERATORS.sql
-        07_FUNCTIONS.sql
-        08_GROUPBY_HAVING.sql
-        09_VIEWS.sql
-        10_Final_Business_Queries.sql
-
-    Explore the generated views and business reports.
+    Run:
+01.--bash
+02.--cd C:\Users\DELL\Desktop\task-manager-java
+03.--mvn spring-boot:run
+04.--After running above 2 commands then the server has been started on the http://localhost:5000 link which is the localhost open it in any browser which you want to run the application with the GUI.
     
 # 📈 Future Improvements
-    Front-end development 
-    API Integration
-    Advanced Backend System 
-    File Automation
-    Advance Searches
-    Online Reservation
-    Notification System
-    Web or Mobile Interface Integration
+    ➜ Docker containerization and Spring Security
+    ➜ Pagination
+    ➜ Unit tests with the JUnit
+    ➜ Swagger documentation 
+    ➜ cloud deployment 
+    ➜ Mobile App Development
 
 # 👨‍💻 Author
 
