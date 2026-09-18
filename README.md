@@ -94,7 +94,8 @@ task-manager-java/
 
 # 🛠️ Technology Stack & Tools
 ---
-Technology: Version : 'Purpose'
+| Technology | Version | 'Purpose' |
+| --- | --- | --- |
 Java: 17 (LTS) : 'Programming language'
 Spring Boot: 3.2.5 : 'Backend framework'
 Spring Data JPA : 3.2.5 : 'database abstraction feature'
