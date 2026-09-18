@@ -83,7 +83,8 @@ task-manager-java/
 ---
 
 # 🚀 How to Run
-    Run:<br />
+    Run:
+    
 <br />01.--bash
 <br />02.--cd C:\Users\DELL\Desktop\task-manager-java
 <br />03.--mvn spring-boot:run
