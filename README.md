@@ -1,9 +1,9 @@
 
-# 🏢 My Task Manager
+# 👩🏻‍💻📓✍🏻💡 My Task Manager
 <br /> **Advanced Programming M604** 
 <br /> **Java & SpringBoot Project**
 
-# 📘 Introduction
+# 📋 Introduction
 
 This project aim to build and involved designing and developing a backend application to
 handle the data with these things operations, including CRUD (Create, Read, Update, Delete),
@@ -16,12 +16,12 @@ delete the tasks via the RESTful API and also the browser based UI. This project
 showcases how do we utilize OOP principles, and how to integrate it with the databases
 usingand also with JPA/Hibernate, plus how to control global exceptions.
 
-# 🧾 Front-End UI Design
+# 💻 Front-End UI Design
 
 <img width="1456" height="1818" alt="Task_Manager  UserInterface" src="https://github.com/user-attachments/assets/a699e08a-b8a8-48ee-83e6-b210a611d6cb" />
 
 
-# 📜 System Architecture
+# 💻🛠 System Architecture
 
 <img width="1733" height="395" alt="System Architecture" src="https://github.com/user-attachments/assets/8eccc0a6-3352-4fac-b610-0b440da2484b" />
 
@@ -83,11 +83,11 @@ task-manager-java/
 ---
 
 # 🚀 How to Run
-    Run:</>
-</>01.--bash
-</>02.--cd C:\Users\DELL\Desktop\task-manager-java
-</>03.--mvn spring-boot:run
-</>04.--After running above 2 commands then the server has been started on the http://localhost:5000 link which is the localhost open it in any browser which you want to run the application with the GUI.
+    Run:<br />
+<br />01.--bash
+<br />02.--cd C:\Users\DELL\Desktop\task-manager-java
+<br />03.--mvn spring-boot:run
+<br />04.--After running above 2 commands then the server has been started on the http://localhost:5000 link which is the localhost open it in any browser which you want to run the application with the GUI.
     
 # 📈 Future Improvements
     ➜ Docker containerization and Spring Security
