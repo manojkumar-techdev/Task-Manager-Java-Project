@@ -83,11 +83,11 @@ task-manager-java/
 ---
 
 # 🚀 How to Run
-    Run:
-01.--bash
-02.--cd C:\Users\DELL\Desktop\task-manager-java
-03.--mvn spring-boot:run
-04.--After running above 2 commands then the server has been started on the http://localhost:5000 link which is the localhost open it in any browser which you want to run the application with the GUI.
+    Run:</>
+</>01.--bash
+</>02.--cd C:\Users\DELL\Desktop\task-manager-java
+</>03.--mvn spring-boot:run
+</>04.--After running above 2 commands then the server has been started on the http://localhost:5000 link which is the localhost open it in any browser which you want to run the application with the GUI.
     
 # 📈 Future Improvements
     ➜ Docker containerization and Spring Security
