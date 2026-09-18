@@ -96,8 +96,8 @@ task-manager-java/
 ---
 | **Technology** | **Version** |**Purpose** |
 | --- | --- | --- |
-| **Java | 17 (LTS)** : Programming language |
-| **Spring Boot** | 3.2.5 : Backend framework |
+| **Java** | 17 (LTS) | Programming language |
+| **Spring Boot** | 3.2.5 | Backend framework |
 | **Spring Data** JPA | 3.2.5 | Database abstraction feature |
 | **Hibernate** | 6.4.4 | ORM implementation |
 | **H2 / SQLite** | 2.2.224 / 3.45.1 | Databases |
